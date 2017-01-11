@@ -1,1 +1,1 @@
-Esto va a ser un conflicto
+Esto es un conflicto
