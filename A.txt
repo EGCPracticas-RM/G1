@@ -1,1 +1,1 @@
-Esto es un conflicto
+Esto es un conflicto editado desde master
